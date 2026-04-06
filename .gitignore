@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# Uploads
+uploads/
+
+# Environment Variables
+.env
+
+# macOS
+.DS_Store
